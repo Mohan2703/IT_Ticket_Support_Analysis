@@ -475,7 +475,7 @@ $\textsf{\color{blue}{View Images ➡️}}$
 - Country-Level Ticket Volumes (Top 5 countries / Map view)
 - Queue-wise Ticket Workload (which support teams handle most)
 
-> <a href="https://app.powerbi.com/view?r=eyJrIjoiNWU0MmMyNGQtODFiMS00NzI3LTk1MDMtYWU3OTNlNmE1MjM4IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9" target="_blank"><img width="700" height="450" alt="Image" src="https://github.com/user-attachments/assets/daf7b7ae-3d56-424f-a516-0f0a195d015c" />
+> <a href="https://app.powerbi.com/view?r=eyJrIjoiMDYyZGU5OWItZjliMC00NjE5LWFhMmEtMGI1OGZkMDE4NTJhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9" target="_blank"><img width="700" height="450" alt="Image" src="https://github.com/user-attachments/assets/daf7b7ae-3d56-424f-a516-0f0a195d015c" />
 </a>
 
 > ### 2.Resolution Deep Dive 
